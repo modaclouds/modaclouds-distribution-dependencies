@@ -4,6 +4,7 @@
 !/.gitmodules
 !/.scripts
 !/.scripts/**
+
 !/dependencies/**
 
 *#
